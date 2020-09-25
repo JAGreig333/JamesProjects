@@ -33,7 +33,7 @@
 
    <p><strong>Ideal Job: Cyber Security Consultant </strong></p>
 
-<p>Example: <a href="https://www.seek.com.au/job/50575949?type=standard#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7"</a></p>
+<p>Example: <a href="https://www.seek.com.au/job/50575949?type=standard#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7" https://www.seek.com.au/job/50575949?type=standard#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7 </a></p>
 
 <img src="cybersecad1.jpg">
 <img src="cybersecad2.jpg">
