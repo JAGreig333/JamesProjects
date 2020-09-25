@@ -1,37 +1,149 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JAGreig333/JamesProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><strong>My Profile:</strong></p>
+<img src="profpic.jpg">
+<p>   </p>
 
-### Markdown
+<p>Name: James Greig</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>Student Number: s3804106</p>
 
-```markdown
-Syntax highlighted code block
+<p>Email: <a href="mailto:s3804106@student.rmit.edu.au">s3804106@student.rmit.edu.au</a></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>GitHub: <a href="https://github.com/JAGreig333/JamesProjects.git">https://github.com/JAGreig333/JamesProjects.git</a></p>
 
-- Bulleted
-- List
+<p><strong>About Me:</strong></p>
 
-1. Numbered
-2. List
+<p>Hi, I’m James Greig. I was born in New Zealand, now living in Perth, Western Australia. </p>
 
-**Bold** and _Italic_ and `Code` text
+<p>I was previously studying Bachelor of Applied Sciences at RMIT and am looking at transferring to Bachelor of IT, so I am doing two units this semester to test the waters. So far I am very much enjoying it. My interests are varied – permaculture, brewing/distilling, philosophy, guitar, martial arts. I live with my beautiful partner, my stepdaughter, our dog, 3 cats, and 2 pink and grey galahs.</p>
 
-[Link](url) and ![Image](src)
-```
+<p>My Interest in IT:</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>My particular interests in IT are Programming and Cybersecurity. Cybersecurity is probably the greatest of these interests. </p>
 
-### Jekyll Themes
+<p>During my first University attempt, I tried a Computer Science unit. I didn’t do very well at all. I was afraid to ask questions, didn’t have the confidence to talk to lecturers or tutors. 19 years later I have finally managed my social anxiety enough to be able to talk to strangers.</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JAGreig333/JamesProjects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>After talking to a friend who works in Cyber Security last year, I became inspired and did some more research, as I do have some general security experience. I spoke to a friend and  mentor who works in the security industry and said that it is a growth industry and if it’s something I feel aligned with, I should pursue it as a career.</p>
 
-### Support or Contact
+<p>I chose RMIT because it has a good reputation for IT, and also it was the best option available via Open Universities Australia.</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>I expect to learn through this degree (and probably Graduate Certificates/Masters ) a skill set that will give me access to work in the IT industry, working in Cyber Security</p>
+
+   <p><strong>Ideal Job: Cyber Security Consultant </strong></p>
+
+<p>Example: <href="#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7">https://www.seek.com.au/job/50575949?type=standard#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7</a></p>
+
+<img src="cybersecad1.jpg">
+<img src="cybersecad2.jpg">
+<img src="cybersecad3.jpg">
+
+
+<p>This is a position for someone with experience in the Cyber Security field, to join a business and assess their current Cyber Security and then create and implement new and improved  Cyber Security policies for internal and external clients. This position is largely based on Risk Management and security and could involve interstate/international travel. This position appeals greatly to me as I have an interest in Security in general, Risk management, and it also offers the possibility of travel for work.</p>
+
+<p>The skills needed to qualify for this position are a Tertiary Degree in IT , a strong understanding of IT Project Management, Risk Management, Quality and Policy Management (ISO, IRAP).  Also this position requires extremely strong planning, writing, reporting, problem solving, and general communication skills. Also, the  position requires someone with also a knowledge of current security techniques and protocols who also possesses the ability to work autonomously or part of a team.</p>
+
+<p>Currently, I have  good communication skills, as I have done multiple courses around various types of communication. Through previous studies and occupations I have been exposed to Risk Management/Mitigation. I am also good at and enjoy problem solving and have done several Project Management courses (Mostly PRINCE2). I also can work autonomously or as an effective team member.</p>
+
+<p>I plan on expanding my skill and experience set to be employable in this role by:</p>
+
+<p>· Completing a degree in IT</p>
+
+<p>· Completing further studies in Cyber Security either via Graduate Certificate and/or Master’s Degree</p>
+
+<p>· Working in the industry, and building experience  by working under those more experienced than me.</p>
+
+<p>· Doing extra studies like Certificate IV in Risk Management Courses and a formally accredited Project Management course (Six Sigma seems to be standard industry practise and something that interests me).</p>
+
+<p><strong>Personality Profile:</strong></p>
+
+<p>Myers – Briggs: INTJ – A “The Architect”</p>
+
+<p><a href="https://www.16personalities.com/intj-personality">https://www.16personalities.com/intj-personality</a></p>
+
+<p>I find this interesting as I took this test 2 years ago, and I got the same result. When I first took a Myers-Briggs test it was in 2009, it occurs appear that life experience has shifted my mindset and worldview rather dramatically.</p>
+
+<p>This test results already affirms what I already know about myself – Through sheer will and the right actions, I can achieve my outcomes. I know I can occur as arrogant to people, so I have worked on my communication skills to be less blunt and warmer and more engaging. With respect to teamwork it really depends on the other personality types in the team. As a highly introverted person, I don’t enjoy leadership roles, but I am effective in them when I am placed in such a position. I feel that I am adaptable in the team, my role may be mediating in a conflict, merely offering input, or even just doing tasks assigned to me. I hold a “whatever it takes” attitude to work, as long as the task is completed in a satisfactory (ethically sound) manner. I think when forming a team I would work best with likeminded individuals in a smaller sized team. However, I know from experience I can adapt to most personalities to expedite desired outcomes.</p>
+
+   <p><strong>Learning Type: Visual Learner</strong></p>
+
+<p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;amp;A=4&amp;amp;V=9&amp;amp;T=7">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;amp;A=4&amp;amp;V=9&amp;amp;T=7</a></p>
+
+<p>This I also find interesting, previous tests have shown me to be a “hands on “ type of learner but recently I have been learning by observing the tutors and other students. I feel that in a team I may struggle to understand a concept put forward unless I can visualise it or they can visually present it to me in some way.</p>
+
+   <p><strong>Big 5 Personality Test:</strong></p>
+
+<p><a href="https://www.truity.com/personality-test/17315/test-results/26817998">https://www.truity.com/personality-test/17315/test-results/26817998</a></p>
+
+<p>With respect to teamwork, my openness may be an issue;  however apparently my neuroses may counteract this to some extent. As I score reasonably high on the Conscientiousness and Agreeableness markers, I would be able to adapt to most team situations and be able to resolve conflict effectively. This also suggests to me that with respect to forming  a team, in an ideal situation -  I would be choosing teammates with similar or higher levels of Agreeableness and Conscientiousness traits.</p>
+
+   <p><strong>Project Idea: Integrated SSTV Encoder/Decoder Unit</strong></p>
+
+<p>In essence my project is to create an integrated SSTV encoder/decoder unit, coupled with a UHF/VHF transceiver, stored in a Faraday Enclosure.</p>
+
+<p><strong>Slow Scan Television:</strong></p>
+
+<p>Slow Scan Television (SSTV) is a means of transmitting or receiving an image or series of images or video using radio. Standard analog television requires a bandwidth of 8 MHz wide channels, whereas SSTV generally only requires a bandwidth of 3Khz.(Wikipedia, 2020) SSTV is mostly only utilised by “Ham” Radio enthusiasts, but really this technology has much wider potential applications.</p>
+
+<p><strong>How is this relevant?</strong></p>
+
+<p>In the digital age, we take for granted being able to send and receive text messages, MMS, instant messages, emails etc. In some instances, such as the regular bushfires Australia experiences, in remote areas which many mobile provider customers usually receive limited  signal will receive none. (Averill,2018)</p>
+
+<p>This signal decrease is created by intense bushfires. In such intense fires, plasma is produced which reacts with the surrounding magnetic field, and this greatly  has a negative impact on phone signal strength. Phone signal can also greatly be reduced by repeating towers and other infrastructure that is damaged, if not destroyed in the intense bushfires we experience in Australia. (Carrat, 2019)</p>
+
+<p>“Rural fire service operations may use frequencies in the 400-450MHz range to communicate, but these signals are weakened during fire, in which case they may use frequencies in the 100-180MHz range. At this wavelength, signal strength doesn’t degrade as badly and can sustain better communication.” (Carrat, 2019; para 7)</p>
+
+<p>From this it can be seen that in intense bushfires, the only effective form of electronic communication is via radio transceivers in the 100-180Mhz range. No MMS can be sent, no videos. As SSTV requires a bandwidth of merely 3Khz, it is an ideal way to send images and receive images. All sorts of images could be sent to and from base such as status updates, new orders, photos or videos “on the scene” and so much more.</p>
+
+<p>Similarly this project could be utilised for Military applications, for when normal communications are down or offline. This would be particularly relevant in the instance of a large Electro Magnetic Pulse (EMP), a rapid burst of electromagnetic energy, from lightning, solar flares or nuclear explosion (NEMP) or weaponised Non-Nuclear Electromagnetic Pulse (NNMP) which has the potential to render all electronic devices in its vicinity permanently inoperable (Wikipedia, 2020). If stored in an appropriately built Faraday Cage type enclosure ( Generally a sealed metal container)(Chandler, n.d). Such a device could be used as an emergency communications system for sending pictorial /video information as well as verbal.</p>
+
+<p>Also this project could be utilised for Paramedics, First Responders at remote mine sites, Royal Flying doctors. Images and video could be sent and received if normal communications systems are non-functioning and they need to send pictures or video of injured parties, maps, GPS coordinates etc. Also it could provide a way for doctors to give remote consultations and for them to send/receive images via radio.</p>
+
+<p>Another way this project could be utilised is in agricultural projects in remote areas without any mobile phone coverage, giving the opportunity to send images and data from point to point. Similalarly this could be applied in the developing world, where appropriate infrastructure may not be in place.</p>
+
+<p><strong>Technology and Skills required:</strong></p>
+
+<p><strong>The technology required for this type of project already exists.</strong></p>
+
+<p>Applications such as<em> SSTV Encoder </em>(<a href="https://play.google.com/store/apps/details?id=om.sstvencoder%20">https://play.google.com/store/apps/details?id=om.sstvencoder</a>) and <em>Robot 36</em> (<a href="https://play.google.com/store/apps/details?id=xdsopl.robot36">https://play.google.com/store/apps/details?id=xdsopl.robot36</a> ) by husband and wife team Ahmet Inan and Olga Miller (Butler, 2015). I would seek to create an integrated encoder/decoder program. That could take an image or video, encode it and then when instructed by the operator, generate a tone that is sent over the radio. Similarly, when instructed it would record a tone sent and decode that into an image or video. I would also add the option of encryption of images (encryption keys could be sent via cyphered Morse code).</p>
+
+<p>The hardware involved would include a minicomputer such as a  Raspberry Pi (<a href="https://www.raspberrypi.org/">https://www.raspberrypi.org/ </a> )  with an integrated mini keyboard/multipad and/or touch screen, paired with a UHF/VHF transceivers such as the Baofeng UV-5R ( <a href="https://baofengtech.com/uv-5r">https://baofengtech.com/uv-5r</a> ) These two units would be stored in an “EMP proof” container. The minicomputer and input and output units would be integrated into a glass reinforced hard plastic housing and supplied with multiple rechargeable USB battery packs.</p>
+
+<p>The skills involved would be coding the integrated SSTV encoder/decoder and creating the encryption software. Computer assembly skills would be needed to build the mini computer unit in such a way that the touch screen and keyboard/multipad are integrated in the unit. This would most likely require a strongly built outer housing of which a prototype could be made from many pre-existing electronics housings, but for mass scale production it would be far easier and cost effective to outsource this work to plastic injection moulding company. The outer enclosure to house the transceiver and the </p>
+
+<p>If successful, this project would definitely increase the quality of communications in an emergency scenarios such as intense bushfires, first line communication failures, or EMP events for Emergency and Military services. This can also extend to the civilian market as it provides a way for the government and media to give progress reports, bushfire proximity warnings, shelter/medical aid locations and other crucial information that would usually be accessible through mobile phone or internet. It would also have great potential applications in remote agricultural projects and the developing world where appropriate infrastructure may not be in place.</p>
+
+<p>References:</p>
+<p> </p>
+ <p>Averil, Z, 2018. Daily Mercury .</em>“Residents in bushfire affected areas lose mobile service.”  28t  November .Blog post. Viewed 24th of September, 2020</p>
+<p>  <a href="https://www.dailymercury.com.au/news/residents-in-bushfire-affected-areas-lose-mobile-s/3588717"> < https://www.dailymercury.com.au/news/residents-in-bushfire-affected-areas-lose-mobile-s/3588717 > </a> </p>
+<p> </p>
+<p><a href="https://baofengtech.com/uv-5r">< https://baofengtech.com/uv-5r > </a> viewed 23rd of September 2020</p>
+<p> </p>
+<p>Carrat, J. 2019. <em>The Conversation</em>. ”As flames encroach, those at risk may lose phone signal when they need it most.” 13th of November. Blog Post. Viewed 24th of September 2020</p>
+<p> <a href="https://theconversation.com/as-flames-encroach-those-at-risk-may-lose-phone-signal-when-they-need-it-most-126827">< https://theconversation.com/as-flames-encroach-those-at-risk-may-lose-phone-signal-when-they-need-it-most-126827 ></a> </p>
+<p> </p>
+<p>Chandler,N. n.d . <em>How Stuff Works</em>.  ”How Faraday Cages Work “</p>
+<p>Chandler, N. n.d. Viewed 24th September 2020
+<p><a href="https://science.howstuffworks.com/faraday-cage.htm">< https://science.howstuffworks.com/faraday-cage.htm > </a> </p>
+<p> </p>
+<p>Butler,C. 2015. <em>Icqpodcast</em>. Free Android SSTV Encoder/Decoder Software Blog post. 5th</sup> NovemberViewed 22<sup>nd</sup> of September 2020 <p>
+<p> <a href="https://www.icqpodcast.com/news/2015/2/5/free-android-sstv-encoderdecoder-software"> >< https://www.icqpodcast.com/news/2015/2/5/free-android-sstv-encoderdecoder-software > </a> </p>
+<p> </p>
+<p>Miller,O.2020. “SSTV decoder”</p>
+<p>Google Play .Viewed 21<sup>st</sup> of September</p>
+<p> <a href="https://play.google.com/store/apps/details?id=om.sstvencoder">< https://play.google.com/store/apps/details?id=om.sstvencoder ></a> </p>
+<p> </p> 
+<p>Inan,A. 2020 “ Robot 36 – SSTV encoder”</p>
+<p>Google Play. Viewed 21<sup>st</sup> of September</p>
+<p><a href="https://play.google.com/store/apps/details?id=xdsopl.robot36">< https://play.google.com/store/apps/details?id=xdsopl.robot36 ></a> </p>
+<p> </p>
+<p>Wikipedia,2020. Wikipedia “ Electromagnetic pulse”</p>
+<p>Wikipedia. Viewed  24<sup>th</sup> of September 2020</p>
+<p> <a href="https://en.wikipedia.org/wiki/Electromagnetic_pulse">< https://en.wikipedia.org/wiki/Electromagnetic_pulse > </a>  </p>
+<p> </P>
+<p>Wikipedia,2020. Wikipedia. “Slow-scan television”</p>
+<p>Wikipedia. Viewed 22<sup>nd</sup> of September 2020</p>
+<p><a href="https://en.wikipedia.org/wiki/Slow-scan_television"> < https://en.wikipedia.org/wiki/Slow-scan_television > </a></p>
+
+   
