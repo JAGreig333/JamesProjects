@@ -1,6 +1,6 @@
 
 <p><strong>My Profile:</strong></p>
-<img src="JAGreig333/JamesProjects/profpic.jpg">
+<img src="profpic.jpg">
 <p>   </p>
 
 <p>Name: James Greig</p>
@@ -33,9 +33,9 @@
 
 <p>Example: <href="#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7">https://www.seek.com.au/job/50575949?type=standard#searchRequestToken=48da6d13-a9f1-4c0f-a704-b6757869cbd7</a></p>
 
-<img src="JAGreig333/JamesProjects/cybersecad1.jpg">
-<img src="JAGreig333/JamesProjects/cybersecad2.jpg">
-<img src="JAGreig333/JamesProjects/cybersecad3.jpg">
+<img src="cybersecad1.jpg">
+<img src="cybersecad2.jpg">
+<img src="cybersecad3.jpg">
 
 
 <p>This is a position for someone with experience in the Cyber Security field, to join a business and assess their current Cyber Security and then create and implement new and improved  Cyber Security policies for internal and external clients. This position is largely based on Risk Management and security and could involve interstate/international travel. This position appeals greatly to me as I have an interest in Security in general, Risk management, and it also offers the possibility of travel for work.</p>
